@@ -1,3 +1,4 @@
+//this program used for finding prime numbers
 import java.io.*;
 
 class PrimeExample1{
